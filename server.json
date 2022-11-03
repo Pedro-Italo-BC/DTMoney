@@ -7,6 +7,14 @@
       "type": "income",
       "createdAt": "2022-11-02T20:24:41.843Z",
       "id": 1
+    },
+    {
+      "category": "Alimentação",
+      "description": "Comprei um pastel",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2022-11-03T00:14:07.815Z",
+      "id": 2
     }
   ]
 }
