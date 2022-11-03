@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "category": "venda",
+      "description": "Desenvolvimento WEB",
+      "price": 1200,
+      "type": "income",
+      "createdAt": "2022-11-02T20:24:41.843Z",
+      "id": 1
+    }
+  ]
+}
